@@ -1,0 +1,2 @@
+babel source_file_path --out-file=path-to-rendered-file --presets=env,react --watch
+live-server folder
